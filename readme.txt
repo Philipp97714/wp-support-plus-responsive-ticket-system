@@ -11,7 +11,7 @@ Stable tag: 6.1.9
 This plugin adds to Wordpress the features of a complete ticket system with 100% responsive and 100% Ajax functionality. This allows users to submit tickets to report problems or get support on whatever you want. Users can set the status, priority and category of each ticket.
 
 = Pro Features =
-* http://pradeepmakone.com/wpsupportplus/
+* [this was a fake link]
 
 Features :
 
@@ -80,13 +80,13 @@ Features :
 * Swedish by rickeclaesson
 * Brazilian by Daniel Silveira
 * Persian by Behrooz Sedqi ( http://www.apktops.ir )
-* Arabic by Arab façade
+* Arabic by Arab faÃ§ade
 * German by Michael L. Jaegers
 * Romania by Mihai
 * Russian by Vladimir Kudashev
 * Traditional Chinese translation by Tiffany Lee
 * Polish by Slawek Gdak ( http://www.blog.gdaq.pl )
-* Czech by Milan Trebul�k (latest)
+* Czech by Milan Trebulák (latest)
 * Turkish by Mustafa Can KIRANLI (latest)
 
 = Pro version in exchange of translation =
@@ -244,7 +244,7 @@ This plugin is almost plug and play! Just activate it and then go to WP Support 
 * Divi Tamplete compatibility bug fix
 * Brazilian Translation by Daniel Silveira
 * Persian Translation by Behrooz Sedqi (www.apktops.ir)
-* Arabic Translation by Arab façade
+* Arabic Translation by Arab faÃ§ade
 * German Translation by Michael L. Jaegers
 * Romania translation by Mihai
 
